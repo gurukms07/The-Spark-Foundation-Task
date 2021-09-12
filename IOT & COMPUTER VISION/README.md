@@ -1,8 +1,6 @@
 # Face-Mask-Detection
 Detecting face masks using Python, Keras, OpenCV on real video streams
 
-# Face-Mask-Detection
-Detecting face masks using Python, Keras, OpenCV on real video streams
 # mask_rcnn_test
 Use tensorflow object_detection to finetuning a Mask R-CNN model
 This Program train to detect the face mask with help of openCV,Keras/TensorFlow, and Deep Learning.
