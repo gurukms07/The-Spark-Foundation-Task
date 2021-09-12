@@ -1,4 +1,4 @@
-#Social Distance Detector
+Social Distance Detector
 
 The file yolov3.weights is greater than 25MB. GitHub Does not accept this file.
 You can Download it from this drive link.
